@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "description": "High-performance laptop",
+    "colour": "Silver",
+    "cost": 1200,
+    "available": false,
+    "instock": 15
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "description": "Latest model with OLED display",
+    "colour": "Black",
+    "cost": 999,
+    "available": true,
+    "instock": 25
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "description": "Wireless noise-canceling headphones",
+    "colour": "Blue",
+    "cost": 150,
+    "available": true,
+    "instock": 30
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "description": "Fitness tracking smartwatch",
+    "colour": "Red",
+    "cost": 200,
+    "available": true,
+    "instock": 10
+  },
+  {
+    "id": 5,
+    "name": "Tablet",
+    "description": "10-inch tablet with stylus support",
+    "colour": "Grey",
+    "cost": 450,
+    "available": true,
+    "instock": 20
+  },
+  {
+    "id": 6,
+    "name": "Gaming Console",
+    "description": "Next-gen gaming console",
+    "colour": "White",
+    "cost": 500,
+    "available": true,
+    "instock": 18
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with deep bass",
+    "colour": "Black",
+    "cost": 80,
+    "available": true,
+    "instock": 40
+  },
+  {
+    "id": 8,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse",
+    "colour": "Grey",
+    "cost": 30,
+    "available": true,
+    "instock": 50
+  },
+  {
+    "id": 9,
+    "name": "Keyboard",
+    "description": "Mechanical RGB keyboard",
+    "colour": "Black",
+    "cost": 90,
+    "available": true,
+    "instock": 35
+  },
+  {
+    "id": 10,
+    "name": "Monitor",
+    "description": "27-inch 4K UHD monitor",
+    "colour": "Silver",
+    "cost": 350,
+    "available": true,
+    "instock": 12
+  },
+  {
+    "id": 11,
+    "name": "External Hard Drive",
+    "description": "2TB external hard drive",
+    "colour": "Black",
+    "cost": 100,
+    "available": true,
+    "instock": 22
+  },
+  {
+    "id": 12,
+    "name": "Smart TV",
+    "description": "55-inch 4K smart TV",
+    "colour": "Black",
+    "cost": 700,
+    "available": true,
+    "instock": 8
+  },
+  {
+    "id": 13,
+    "name": "Router",
+    "description": "Wi-Fi 6 high-speed router",
+    "colour": "White",
+    "cost": 120,
+    "available": true,
+    "instock": 15
+  },
+  {
+    "id": 14,
+    "name": "Graphics Card",
+    "description": "High-performance graphics card",
+    "colour": "Black",
+    "cost": 900,
+    "available": true,
+    "instock": 5
+  },
+  {
+    "id": 15,
+    "name": "Power Bank",
+    "description": "10,000mAh power bank",
+    "colour": "Blue",
+    "cost": 40,
+    "available": true,
+    "instock": 60
+  },
+  {
+    "id": 16,
+    "name": "Printer",
+    "description": "All-in-one wireless printer",
+    "colour": "White",
+    "cost": 250,
+    "available": true,
+    "instock": 10
+  },
+  {
+    "id": 17,
+    "name": "VR Headset",
+    "description": "Virtual reality headset",
+    "colour": "Black",
+    "cost": 600,
+    "available": true,
+    "instock": 7
+  },
+  {
+    "id": 18,
+    "name": "Drone",
+    "description": "Camera drone with 4K recording",
+    "colour": "Grey",
+    "cost": 800,
+    "available": true,
+    "instock": 12
+  },
+  {
+    "id": 19,
+    "name": "Coffee Machine",
+    "description": "Automatic coffee maker",
+    "colour": "Silver",
+    "cost": 150,
+    "available": true,
+    "instock": 20
+  },
+  {
+    "id": 20,
+    "name": "Air Purifier",
+    "description": "HEPA filter air purifier",
+    "colour": "White",
+    "cost": 180,
+    "available": true,
+    "instock": 15
+  }
+]

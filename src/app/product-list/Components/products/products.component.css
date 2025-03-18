@@ -1,0 +1,11 @@
+.main-div   {
+    border: 2px solid rgb(131, 154, 163); 
+    padding: 15px; 
+    width: 300px; 
+    border-radius: 8px; 
+    margin: 15px;
+}
+
+.description-div{
+    color: darkblue; text-align: center; margin-bottom: 10px;
+}

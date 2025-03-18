@@ -1,0 +1,11 @@
+<div>
+    <label>Search::</label>
+    <input type="search" #text
+    placeholder="Enter to search the 'products'" 
+    style="width: 90%; height: 40px; margin-top: 20px;"
+    ngModel (ngModelChange)="onSearchingValue(text.value)">
+    <button mat-mini-fab matTooltip="Primary" color="primary" aria-label="Example mini fab with a heart icon">
+        <mat-icon >add</mat-icon>
+      </button>
+
+</div>

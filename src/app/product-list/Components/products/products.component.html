@@ -1,0 +1,18 @@
+<div class="main-div" style="display: grid; grid-template-columns: 1fr , 1fr;">
+  <h3 class="description-div">Product Details</h3>
+  
+  <p><strong>ID:</strong> <span>{{product.id}}</span></p>
+  <p><strong>Product Name:</strong> <span>{{product.name}}</span></p>
+  <p><strong>Description:</strong> <span>{{product.description}}</span></p>
+  <p><strong>Color:</strong> <span>{{product.colour}}</span></p>
+  <p><strong>Cost:</strong> <span >{{product.cost}}</span></p>
+  <p><strong>IN Stock:</strong> <span >{{product.instock}}</span></p>
+  <p><strong>Available:</strong> <span >{{product.available}}</span></p>
+
+
+  <button mat-fab extended color="primary"  (click)="onSubmit()" [disabled]="!product.available || product.instock < 1">
+    <mat-icon>shopping_cart</mat-icon>
+    Add To Cart
+  </button>
+
+</div>
